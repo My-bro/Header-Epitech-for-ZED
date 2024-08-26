@@ -1,0 +1,7 @@
+id = "Header_Epitech_for_ZED"
+name = "Header_Epitech_for_ZED"
+description = "..."
+version = "0.0.1"
+schema_version = 1
+authors = ["londas axel <axel.londas@epitech.eu>"]
+repository = "https://github.com/My-bro/Header-Epitech-for-ZED"
